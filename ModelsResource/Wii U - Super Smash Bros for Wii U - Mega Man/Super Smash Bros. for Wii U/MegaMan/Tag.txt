@@ -1,0 +1,7 @@
+Game: Super Smash Bros. for Wii U
+Subject: Mega Man
+Copyright: Nintendo, HAL Laboratory, Inc., Capcom, Bandai-Namco
+Model Ripper: Random Talking Bush
+Hosting Permissions: The Models Resource
+Notes: For the "face" and "teeth" textures, the current textures used are pre-edited ones.
+       The originals textures are the ones with "_alb" (colour) and "_dtl" (shading/detail).
