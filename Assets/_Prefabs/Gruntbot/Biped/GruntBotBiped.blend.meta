@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 68a00a1c2a300cc429680e0bce72e8c5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Calf_L
+    100004: Calf_R
+    100006: Chest
+    100008: Chest_001
+    100010: Cube_002
+    100012: //RootNode
+    100014: Head
+    100016: LowerArm_L
+    100018: LowerArm_R
+    100020: Thigh_L
+    100022: Thigh_R
+    100024: upper_Arm_L
+    100026: upper_Arm_R
+    100028: Waist
+    100030: ArmIK_L
+    100032: ArmIK_R
+    100034: Elbow_L
+    100036: Elbow_R
+    100038: Foot_L
+    100040: Foot_R
+    100042: FootIK_L
+    100044: FootIK_R
+    100046: Knee_L
+    100048: Knee_R
+    100050: Pelvis
+    100052: Shoulders
+    400000: Armature
+    400002: Calf_L
+    400004: Calf_R
+    400006: Chest
+    400008: Chest_001
+    400010: Cube_002
+    400012: //RootNode
+    400014: Head
+    400016: LowerArm_L
+    400018: LowerArm_R
+    400020: Thigh_L
+    400022: Thigh_R
+    400024: upper_Arm_L
+    400026: upper_Arm_R
+    400028: Waist
+    400030: ArmIK_L
+    400032: ArmIK_R
+    400034: Elbow_L
+    400036: Elbow_R
+    400038: Foot_L
+    400040: Foot_R
+    400042: FootIK_L
+    400044: FootIK_R
+    400046: Knee_L
+    400048: Knee_R
+    400050: Pelvis
+    400052: Shoulders
+    4300000: Cube_002
+    7400000: Default Take
+    7400002: PoseLib
+    7400004: Run
+    7400006: ArmatureAction
+    9500000: //RootNode
+    13700000: Cube_002
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enemy_Eye
+    second: {fileID: 2100000, guid: 0cdf687d87b105644b357c545baaedb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enemy_Metal_Dark
+    second: {fileID: 2100000, guid: f4b44d93320e91149b96b4ae9fc65ae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enemy_Metal_Darkest
+    second: {fileID: 2100000, guid: 78632a6a9e09ffc429a90c94557c4a47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enemy_Metal_Light
+    second: {fileID: 2100000, guid: 62a05f76707595d44a426c58e4a7d756, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

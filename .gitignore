@@ -10,8 +10,8 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
-# Ignore Asset Meta Files
-/[Aa]ssets/**/*.meta
+# DON'T Ignore Asset Meta Files
+#/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
